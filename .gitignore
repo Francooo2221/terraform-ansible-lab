@@ -4,4 +4,6 @@
 terraform.tfvars
 ~/.ssh/id_*
 hosts.ini
+.terraform.lock.hcl
+
 
